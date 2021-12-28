@@ -13,5 +13,10 @@
 ## - Encapsulamento:
 ### Encapsular significa esconder a implementação dos objetos, criando assim interfaces de uso mais concisas e fáceis de usar e entender.O encapsulamento favorece principalmente dois aspectos de um sistema: manutenção e a evolução
 
+## - Herança
+### Permite que você defina uma classe filha que reutiliza(herda) , estende ou modifica o comportamento de uma classe pai. A classe cujo membros são herdados chamda de classe base.A classe que herda os membros da classe base é chamda de classe derivada
+
+## - Polimorfismo
+### Capacidade de um objeto pode ser referenciado várias formas, ou seja, é capacidade de tratar objetos criados a partir das classes especificas como objeto uma classe genérica
 
 
